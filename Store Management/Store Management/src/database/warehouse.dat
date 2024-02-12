@@ -1,0 +1,4 @@
+ImportReceipt{creationTime=24/09/2023, Code=1234567, listProducts=[(1,1,For daily use,12/12/1222,15/12/1222,54)]TotalQuantity54}
+ImportReceipt{creationTime=24/09/2023, Code=1234568, listProducts=[(1,1,For daily use,12/12/1245,15/12/1245,54), (2,2,Long shelf,12/12/1222,12/12/1234,2)]TotalQuantity56}
+ImportReceipt{creationTime=24/09/2023, Code=1234569, listProducts=[(2,2,Long shelf,12/12/2222,12/12/2221,1)]TotalQuantity1}
+ExportReceipt{creationTime=24/09/2023, Code=1234567, listProducts=[(1,1,For daily use,12/12/1245,15/12/1245,13)]TotalQuantity13}
