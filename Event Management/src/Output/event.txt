@@ -1,0 +1,6 @@
+5,QWERTY,2024-12-12,Da,12,Available
+4,QWERTY,2024-12-12,Dak,12,Available
+3,zzzzzzz,2024-12-12,Ha Noi,12,Available
+2,QWERTY,2024-12-12,SG,22,Not Available
+1,QWERTY,2024-12-12,Ha Noi,12,Available
+1,QWERTY,2024-12-12,Ha Noi,12,Available
